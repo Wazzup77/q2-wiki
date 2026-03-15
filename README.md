@@ -36,6 +36,8 @@ This is a summary collection of various config tweaks, print profiles, and links
 
 ### [Installing KlipperScreen](./content/klipperscreen-installation/README.md)
 
+### [Bunny Box - open source Qidi Box with Happy Hare](https://github.com/Wazzup77/Bunny-Box)
+
 ---
 
 ## Printer Configuration Tweaks
